@@ -14,7 +14,7 @@ from pyfiglet import figlet_format as ff
 ```
 ##### `import subprocess, time`
 ***
-subprocess is a module that allows you to spawn new processes.
+`subprocess` is a module that allows you to spawn new processes.
 `time` is a time management function.
 
 ##### `import scapy.all as scapy`
